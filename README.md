@@ -13,8 +13,8 @@ This was my Second Project in Flutter. And also, this was based on a video tutor
 ## Screenshots
 
 <p>
-<img src= "assets/home.jpg" width="720" height="1600">
-<img src= "assets/addtransact.jpg" width="720" height="1600">
-<img src= "assets/choosedate.jpg" width="720" height="1600">
-<img src= "assets/viewdeletetransact.jpg" width="720" height="1600">
+<img src= "assets/home.jpg" width="300">
+<img src= "assets/addtransact.jpg" width="300">
+<img src= "assets/choosedate.jpg" width="300">
+<img src= "assets/viewdeletetransact.jpg" width="300">
 </p>
