@@ -9,3 +9,12 @@ This was my Second Project in Flutter. And also, this was based on a video tutor
 - Once, you added a transaction it will automatically display to the chart bar and also calculate the total amount you've spend on that day
 - Responsive and it can work into landscape mode
 - For now, this application is only focused on Android not in IOS
+
+## Screenshots
+
+<p>
+<img src= "assets/home.jpg" width="720" height="1600">
+<img src= "assets/addtransact.jpg" width="720" height="1600">
+<img src= "assets/choosedate.jpg" width="720" height="1600">
+<img src= "assets/viewdeletetransact.jpg" width="720" height="1600">
+</p>
