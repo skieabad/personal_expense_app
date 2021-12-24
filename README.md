@@ -1,16 +1,11 @@
-# personalexpense_app
+# personal_expense_app
 
-A new Flutter project.
+This was my Second Project in Flutter. And also, this was based on a video tutorial that I've watched and I also apply the functionalities and including the syntax as well.
 
-## Getting Started
+## Features of the App
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Automated Greeting Message based on your time]
+- [Add and Delete Transaction]
+- [Once, you added a transaction it will automatically display to the chart bar and also calculate the total amount you've spend on that day]
+- [Responsive and it can work into landscape mode]
+- [For now, this application is only focused on Android not in IOS]
