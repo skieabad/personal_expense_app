@@ -114,7 +114,7 @@ class _NewTransactionState extends State<NewTransaction> {
                   onPrimary: Colors.white,
                 ),
                 onPressed: _submitData,
-                child: const Text('Add Transaction'),
+                child: const Text('Add a Transaction'),
               ),
             ],
           ),
